@@ -1,0 +1,13 @@
+git status: para saber exactamente como se encuentra su archivo
+git log --oneline: para saber todos los commits que tenemos
+git add: es para añadir a el archivo a la zona de carga
+git commit -m "hola": para guardar el archivo
+git checkout hash: para volver a un commit anterior solo comprobar. 
+git checkout master: para volver a el ultimo punto. 
+git reset hash: borrar un commit y volver a ese commit para modificarlo. 
+git reset --hard hash: borrar el commit y los cambios de todos los commits por encima. 
+rm hola: borrar un archivo
+git restore: recuperar un archivo
+git add . : meter todo a la zona de carga
+ 
+
