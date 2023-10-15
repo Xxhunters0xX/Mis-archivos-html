@@ -9,5 +9,6 @@ git reset --hard hash: borrar el commit y los cambios de todos los commits por e
 rm hola: borrar un archivo
 git restore: recuperar un archivo
 git add . : meter todo a la zona de carga
+git push -u origin master
  
 
